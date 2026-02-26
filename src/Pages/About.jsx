@@ -11,7 +11,7 @@ export default function About() {
       <section className="relative h-[50vh] min-h-400px flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="/images/hero.jpg" 
+            src="/hero.jpg" 
             alt="Mirror Fashion Boutique"
             className="w-full h-full object-cover"
           />
