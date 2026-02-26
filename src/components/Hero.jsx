@@ -7,7 +7,7 @@ export default function Hero() {
       {/* Background Image - Replace with your actual image path */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="./src/assets/hero.jpg" 
+          src="/images/hero.jpg" 
           alt="Luxury fashion" 
           className="w-full h-full object-cover"
         />
